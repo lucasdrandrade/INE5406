@@ -1,0 +1,47 @@
+# Ignore all files
+#/*
+
+# Except directories
+#!*/
+
+# Except specific file types in directories
+#!*/     # Allow all directories
+#!*.qpf  # Allow .qpf files in all directories
+#!*.qsf  # Allow .qsf files in all directories
+#!*.vhd  # Allow .vhd files in all directories
+#!*.do   # Allow .do files in all directories
+#!*.json # Allow .json files in all directories
+#!*.md   # Allow .md files in all directories
+
+# Ignore everything else within directories
+#*.*
+
+#------------------------------------------------------------------#
+
+# Ignore specific directories and files
+2P/Exercicio_01/*.bak
+2P/Exercicio_01/*.qws
+2P/Exercicio_01/db/
+2P/Exercicio_01/incremental_db/
+2P/Exercicio_01/output_files/
+2P/Exercicio_01/simulation/
+
+2P/Exercicio_02/*.bak
+2P/Exercicio_02/*.qws
+2P/Exercicio_02/db/
+2P/Exercicio_02/incremental_db/
+2P/Exercicio_02/output_files/
+2P/Exercicio_02/simulation/
+
+2P/Exercicio_03/*.bak
+2P/Exercicio_03/*.qws
+2P/Exercicio_03/db/
+2P/Exercicio_03/incremental_db/
+2P/Exercicio_03/output_files/
+2P/Exercicio_03/simulation/
+
+2P/Exercicio_01/db/
+2P/Exercicio_01/incremental_db/
+2P/Exercicio_01/output_files/
+2P/Exercicio_01/simulation/
+
