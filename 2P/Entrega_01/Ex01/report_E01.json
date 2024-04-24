@@ -1,0 +1,24 @@
+{
+	"grupo": {
+		"nome": "grupo 1",
+		"alunos": [{"nome": "Lucas Draeger de Andrade", "matricula": "20206224"},
+					{"nome": "Bruno Seixas", "matricula": "18104532"}
+		]
+	},
+	"fpga": {
+		"familia": "Cyclone VI E",
+		"dispositivo": "EP4CE6E22C7"
+	},
+	"utilizacao": {
+		"total combinational functions": 10,
+		"dedicated logic registers": 0,
+		"total pins": 14
+	},
+	"atraso": {
+            "input port": "cin",
+            "output port": "s",
+            "atraso": 4.104,
+            "unidade": "ns",
+            "tipo de atraso": "FR"
+    }
+}
