@@ -13,17 +13,11 @@ Relatório da Atividade Prática I (AP1)
 
 #### Circuito desenvolvido
 
-Descrição breve do que foi feito para desenvolver o demux 4 para 1.
-Incluir qualquer problema encontrado e observações sobre a ocupação de recursos e atrasos. 
+* Circuito desenvolvido: Demux 4 para 1 
+* Principais pontos durante o desenvolvimento: 
+    * compreender o uso do process e do case
+        * Em especial como funcionam e o porque dos sinais que precisamos passar como parâmetros para o process
 
-Exemplo de trecho de código que pode ser incluído em markdown (pode ser útil se vocês quiserem apontar algo em específico da descrição de vocês):
-
-```vhdl
-ARCHITECTURE arch OF demux4para1 IS
---- implementar
-BEGIN
-END arch;
-```
 
 #### Simulação
 
