@@ -57,21 +57,21 @@ AP1/quartusFiles_AP1/mux4para1/incremental_db/
 AP1/quartusFiles_AP1/mux4para1/output_files/
 AP1/quartusFiles_AP1/mux4para1/simulation/
 
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/*.rpt
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/*.bak
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/*.qws
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/incremental_db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/output_files/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-case/simulation/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/*.rpt
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/*.bak
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/*.qws
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/db/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/incremental_db/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/output_files/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/simulation/
 
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/*.rpt
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/*.bak
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/*.qws
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/incremental_db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/output_files/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg-logica/simulation/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/*.rpt
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/*.bak
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/*.qws
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/db/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/incremental_db/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/output_files/
+AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/simulation/
 
 AP1/demux1para4/*.bak
 AP1/demux1para4/*.qws
@@ -87,16 +87,16 @@ AP1/mux4para1/incremental_db/
 AP1/mux4para1/output_files/
 AP1/mux4para1/simulation/
 
-AP1/decodificadorBCD7Seg-case/*.bak
-AP1/decodificadorBCD7Seg-case/*.qws
-AP1/decodificadorBCD7Seg-case/db/
-AP1/decodificadorBCD7Seg-case/incremental_db/
-AP1/decodificadorBCD7Seg-case/output_files/
-AP1/decodificadorBCD7Seg-case/simulation/
+AP1/decodificadorBCD7Seg_case/*.bak
+AP1/decodificadorBCD7Seg_case/*.qws
+AP1/decodificadorBCD7Seg_case/db/
+AP1/decodificadorBCD7Seg_case/incremental_db/
+AP1/decodificadorBCD7Seg_case/output_files/
+AP1/decodificadorBCD7Seg_case/simulation/
 
-AP1/decodificadorBCD7Seg-logica/*.bak
-AP1/decodificadorBCD7Seg-logica/*.qws
-AP1/decodificadorBCD7Seg-logica/db/
-AP1/decodificadorBCD7Seg-logica/incremental_db/
-AP1/decodificadorBCD7Seg-logica/output_files/
-AP1/decodificadorBCD7Seg-logica/simulation/
+AP1/decodificadorBCD7Seg_logica/*.bak
+AP1/decodificadorBCD7Seg_logica/*.qws
+AP1/decodificadorBCD7Seg_logica/db/
+AP1/decodificadorBCD7Seg_logica/incremental_db/
+AP1/decodificadorBCD7Seg_logica/output_files/
+AP1/decodificadorBCD7Seg_logica/simulation/
