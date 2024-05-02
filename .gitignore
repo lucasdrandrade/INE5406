@@ -1,102 +1,13 @@
 # Ignore all files
-#/*
-
-# Except directories
-#!*/
-
+/*
 # Except specific file types in directories
-#!*/     # Allow all directories
-#!*.qpf  # Allow .qpf files in all directories
-#!*.qsf  # Allow .qsf files in all directories
-#!*.vhd  # Allow .vhd files in all directories
-#!*.do   # Allow .do files in all directories
-#!*.json # Allow .json files in all directories
-#!*.md   # Allow .md files in all directories
-
+!*/     # Allow all directories
+!*.qpf  # Allow .qpf files in all directories
+!*.qsf  # Allow .qsf files in all directories
+!*.vhd  # Allow .vhd files in all directories
+!*.do   # Allow .do files in all directories
+!*.json # Allow .json files in all directories
+!*.md   # Allow .md files in all directories
 # Ignore everything else within directories
-#*.*
-
-#------------------------------------------------------------------#
-
-# Ignore specific directories and files
-2P/Exercicio_01/*.bak
-2P/Exercicio_01/*.qws
-2P/Exercicio_01/db/
-2P/Exercicio_01/incremental_db/
-2P/Exercicio_01/output_files/
-2P/Exercicio_01/simulation/
-
-2P/Exercicio_02/*.bak
-2P/Exercicio_02/*.qws
-2P/Exercicio_02/db/
-2P/Exercicio_02/incremental_db/
-2P/Exercicio_02/output_files/
-2P/Exercicio_02/simulation/
-
-2P/Exercicio_03/*.bak
-2P/Exercicio_03/*.qws
-2P/Exercicio_03/db/
-2P/Exercicio_03/incremental_db/
-2P/Exercicio_03/output_files/
-2P/Exercicio_03/simulation/
-
-AP1/quartusFiles_AP1/demux1para4/*.rpt
-AP1/quartusFiles_AP1/demux1para4/*.bak
-AP1/quartusFiles_AP1/demux1para4/*.qws
-AP1/quartusFiles_AP1/demux1para4/db/
-AP1/quartusFiles_AP1/demux1para4/incremental_db/
-AP1/quartusFiles_AP1/demux1para4/output_files/
-AP1/quartusFiles_AP1/demux1para4/simulation/
-
-
-AP1/quartusFiles_AP1/mux4para1/*.rpt
-AP1/quartusFiles_AP1/mux4para1/*.bak
-AP1/quartusFiles_AP1/mux4para1/*.qws
-AP1/quartusFiles_AP1/mux4para1/db/
-AP1/quartusFiles_AP1/mux4para1/incremental_db/
-AP1/quartusFiles_AP1/mux4para1/output_files/
-AP1/quartusFiles_AP1/mux4para1/simulation/
-
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/*.rpt
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/*.bak
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/*.qws
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/incremental_db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/output_files/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_case/simulation/
-
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/*.rpt
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/*.bak
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/*.qws
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/incremental_db/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/output_files/
-AP1/quartusFiles_AP1/decodificadorBCD7Seg_logica/simulation/
-
-AP1/demux1para4/*.bak
-AP1/demux1para4/*.qws
-AP1/demux1para4/db/
-AP1/demux1para4/incremental_db/
-AP1/demux1para4/output_files/
-AP1/demux1para4/simulation/
-
-AP1/mux4para1/*.bak
-AP1/mux4para1/*.qws
-AP1/mux4para1/db/
-AP1/mux4para1/incremental_db/
-AP1/mux4para1/output_files/
-AP1/mux4para1/simulation/
-
-AP1/decodificadorBCD7Seg_case/*.bak
-AP1/decodificadorBCD7Seg_case/*.qws
-AP1/decodificadorBCD7Seg_case/db/
-AP1/decodificadorBCD7Seg_case/incremental_db/
-AP1/decodificadorBCD7Seg_case/output_files/
-AP1/decodificadorBCD7Seg_case/simulation/
-
-AP1/decodificadorBCD7Seg_logica/*.bak
-AP1/decodificadorBCD7Seg_logica/*.qws
-AP1/decodificadorBCD7Seg_logica/db/
-AP1/decodificadorBCD7Seg_logica/incremental_db/
-AP1/decodificadorBCD7Seg_logica/output_files/
-AP1/decodificadorBCD7Seg_logica/simulation/
+*.*
+README
